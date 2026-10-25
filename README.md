@@ -16,7 +16,19 @@ Herramienta local de transcripción de videos de TikTok, construida para procesa
 
 ## Vista del proyecto
 
-No se publican archivos de audio ni transcripciones privadas.
+Capturas de la interfaz local en estado vacío, octubre de 2026. No se muestran videos, audio ni transcripciones personales.
+
+### Interfaz de escritorio de TikTok Local Transcriber
+
+<img src="media/transcriber-escritorio-2026.png" width="760" alt="Interfaz de escritorio de TikTok Local Transcriber" />
+
+### Flujo de carga de archivos en la interfaz local
+
+<img src="media/transcriber-carga-2026.png" width="760" alt="Flujo de carga de archivos en la interfaz local" />
+
+### Interfaz local en pantalla móvil
+
+<img src="media/transcriber-movil-2026.png" width="300" alt="Interfaz local en pantalla móvil" />
 
 ## Contexto
 
